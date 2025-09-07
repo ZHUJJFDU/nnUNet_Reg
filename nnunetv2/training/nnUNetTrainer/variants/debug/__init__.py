@@ -1,0 +1,1 @@
+from nnunetv2.training.nnUNetTrainer.variants.debug.RegnnUNetTrainer_CPU import RegnnUNetTrainer_CPU 
